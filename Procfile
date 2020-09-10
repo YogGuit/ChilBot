@@ -1,1 +1,1 @@
-chilbot: python chilbot.py
+discordbot: python chilbot.py
